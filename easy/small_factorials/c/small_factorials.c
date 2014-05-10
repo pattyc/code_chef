@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void factorial(int num);
+int *to_array(int num);
 
 int main()
 {
